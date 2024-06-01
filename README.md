@@ -9,6 +9,7 @@ The Random Quote Generator fetches random quotes from the Quotable API and displ
 **Features**
 
 Random Quote Generation: Fetches random quotes from the Quotable API and displays them on the webpage.
+
 Quote Author Display: Displays the author of each quote below the quote itself.
 
 Responsive Design: The application is designed to work seamlessly across various devices and screen sizes.
